@@ -32,3 +32,5 @@ To control the simulated arm from RViz, also run:
 [Running GUI Applications insider docker containers](https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110)
 
 [Universal Robot Git](https://github.com/ros-industrial/universal_robot)
+
+[Docker](https://docs.docker.com/install/)
